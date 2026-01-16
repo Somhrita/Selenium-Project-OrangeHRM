@@ -63,6 +63,7 @@ SeleniumProject
 ├── pom.xml
 ├── logs
 ├── target
+└── README.md
 
 🚧 **Current Status**
 
@@ -89,5 +90,5 @@ Shows strong understanding of automation architecture
 Scalable and maintainable structure
 Suitable for enterprise-level automation growth
 
-└── README.md
+
 
