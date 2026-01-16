@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OrangeHRMSuite">
+	<test name="OrangeHRMTest">
+		<classes>
+			<class name="com.orangeHRM.test.DummyClass">
+			</class>
+			<class name="com.orangeHRM.test.LoginPageTest">
+			</class>
+		</classes>
+	</test>
+</suite>
