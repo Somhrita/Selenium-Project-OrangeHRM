@@ -20,23 +20,20 @@ The framework is built using Java, Maven, and TestNG, following industry-standar
 **Reporting**: Spark Report
 **Version Control**: Git & GitHub
 
+## 📂 Project Structure
+```text
 SeleniumProject
-│
 ├── src/main/java
 │   ├── com.demoproject.actiondriver
 │   │   └── ActionDriver.java
-│   │
 │   ├── com.demoproject.base
 │   │   ├── BaseApiTest.java
 │   │   └── BaseClass.java
-│   │
 │   ├── com.demoproject.listeners
 │   │   └── TestListener.java
-│   │
 │   ├── com.demoproject.pages
 │   │   ├── HomePage.java
 │   │   └── LoginPage.java
-│   │
 │   └── com.demoproject.utilities
 │       └── ConfigReader.java
 │
@@ -46,7 +43,6 @@ SeleniumProject
 │
 ├── src/test/java
 │   └── com.demoproject.tests
-│       ├── ApiTest.java
 │       ├── DummyTest.java
 │       ├── DummyTest2.java
 │       ├── EmployeeDBVerificationTest.java
@@ -60,10 +56,13 @@ SeleniumProject
 │   └── testdata
 │
 ├── testng.xml
-├── pom.xml
 ├── logs
 ├── target
 └── README.md
+```
+
+
+
 
 🚧 **Current Status**
 
